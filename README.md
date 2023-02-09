@@ -7,3 +7,8 @@ The project was worked upon in the following fashion:
 - Survey Analysis based on questionnaire review and observational records
 
 I had worked on creating the mobile application along with a teammate for this project. 
+
+<-- 
+  add more info and pics
+  
+  -->
